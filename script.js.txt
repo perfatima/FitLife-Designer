@@ -1,0 +1,3 @@
+function showAlert() {
+    alert('مرحباً! تم النقر على الزر.');
+}
